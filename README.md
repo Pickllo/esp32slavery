@@ -6,7 +6,7 @@ A custom ESPHome component for exposing sensor states (like motion, contact, and
 
 ```yaml
 external_components:
-  - source: github://yourusername/esphome-i2c-slave-handler
+  - source: github://Pickllo/esp32slavery
     components: [i2c_slave_handler]
 ```
 
